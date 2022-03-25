@@ -1,7 +1,7 @@
 # Windows-Files-Restore
 Restore temporary cache files upon next login, preferably for use at IITD CSC systems
 
-There are situations in public systems{ CSC systems in my case}, where you lose all temporary data like browser history and login data or even apps which you might have installed with user privileges.
+There are situations in public systems{ CSC systems in my case}, where you lose all temporary data like browser history and login data or even apps which you might have installed with user privileges upon logout.
 
 One solution for browser history which everyone uses is that they sign in to their browser account and sync afterwards.
 
