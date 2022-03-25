@@ -49,7 +49,7 @@ Cons: You might have to use some extra space as you are just duplicating the fil
   ROBOCOPY "Y:\Windows\My Applications\Microsoft\ " "C:\Users\mt618xxxx\AppData\Local\Microsoft\ " /W:0 /E /R:1
   ```
 
-### Here let's have an example (Whatsapp)
+### Let's have another example (Whatsapp)
   The Whatsapp app (i.e. Whatsapp.exe) also allows installation as a user.
   
   Update.cmd
