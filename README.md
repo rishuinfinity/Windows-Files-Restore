@@ -64,3 +64,4 @@ Cons: You might have to use some extra space as you are just duplicating the fil
   ROBOCOPY "Y:\Windows\My Applications\Whatsapp " "C:\Users\mt618xxxx\AppData\Local\Whatsapp " /W:0 /E /R:1
   ```
 
+Other apps that work (that I know of) : Firefox
